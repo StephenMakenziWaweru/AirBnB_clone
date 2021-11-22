@@ -1,7 +1,7 @@
 # Web - Static
 
 ## About
-This is the second part of the AirBnB clone  project where the front-end part of the application built using HTML for structure and CSS for styling. It includes simple static HTML pages, Styles, Fake contents, and No Javascript.
+This is the second part of the AirBnB clone  project where the front-end part of the application is built using HTML for structure and CSS for styling. It includes simple static HTML pages, Styles, Fake contents, and No Javascript.
 ## File Description
  - `.html files`: These are a series of increasingly complex html pages on the web_static folder starting from 0 to 103.
  - `styles/`: CSS files for styling correspoding html pages.
@@ -9,7 +9,7 @@ This is the second part of the AirBnB clone  project where the front-end part of
 
 ## Example Usage
 - Run/ double click one of the html files using a browser.
-<img src="ex_usage.png">
+<img src="images/ex_usage.png">
 
 ## Bugs
 - No known bugs
