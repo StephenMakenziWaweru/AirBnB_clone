@@ -8,7 +8,7 @@ This is the second part of the AirBnB clone  project where the front-end part of
  - `images/`: Images used in different parts of the html pages
 
 ## Example Usage
-- Run/ double click one of the html files using a browser.
+- Run/ double click or open one of the html files using a browser.
 <img src="images/ex_usage.png">
 
 ## Bugs
