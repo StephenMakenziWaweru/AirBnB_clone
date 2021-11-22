@@ -98,9 +98,6 @@ section.places {
     margin: 10px 0;
   }
   
-  section.places article div.description {
-  }
-  
   section.places article div.information div span {
     position: absolute;
     text-align: center;
